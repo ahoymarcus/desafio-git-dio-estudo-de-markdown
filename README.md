@@ -30,7 +30,7 @@ Ele é criado pela repetição de duas seqências de três aspas invertidas:
 
 ## Criando um bloco de citação
 
-> Que tal inserirmos uma citação aqui  
+Que tal esta citação:    
 > I'am Iron Man.
 
 ## Criando uma lista ordenada
@@ -48,6 +48,23 @@ Ele é criado pela repetição de duas seqências de três aspas invertidas:
 - Retrovisor
 - Calotas
 
+## Inserindo uma imagem
+
+Utilizamos uma sequencia de dois colchetes para colocarmos um texto padrão e dois dois parênteses com o caminho relativo do arquivo da imagem no projeto:
+
+```
+[imagem do Tux do Linux](/images/tux.png)
+```
+
+[imagem do Tux do Linux](/images/tux.png)
+
+## Criando um link de referência
+
+Utilizamos a mesma sequência utilizada acima para inserir uma imagem, mas sem o sinal de exclamação
+
+```
+[Conheça a search engine Duck Duck Go](https://duckduckgo.com/)
+```
 
 
 [^1] Orientação do professor Venilton Falvo Jr, Tech Lead da Digital Innovation One.
