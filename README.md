@@ -56,7 +56,7 @@ Utilizamos uma sequencia de dois colchetes para colocarmos um texto padrão e do
 [imagem do Tux do Linux](/images/tux.png)
 ```
 
-[imagem do Tux do Linux](/images/tux.png)
+![imagem do Tux do Linux](/images/tux.png)
 
 ## Criando um link de referência
 
@@ -65,6 +65,7 @@ Utilizamos a mesma sequência utilizada acima para inserir uma imagem, mas sem o
 ```
 [Conheça a search engine Duck Duck Go](https://duckduckgo.com/)
 ```
+[Conheça a search engine Duck Duck Go](https://duckduckgo.com/)
 
 
 [^1] Orientação do professor Venilton Falvo Jr, Tech Lead da Digital Innovation One.
