@@ -30,10 +30,23 @@ Ele é criado pela repetição de duas seqências de três aspas invertidas:
 
 ## Criando um bloco de citação
 
-> Que tal inserirmos uma citação aqui
+> Que tal inserirmos uma citação aqui  
 > I'am Iron Man.
 
+## Criando uma lista ordenada
 
+1. Primeiro item
+2. Segundo item
+	- Item identado
+	- Item identado
+3. Terceiro item
+
+## Criando uma lista não ordenada
+
+- Carro
+- Rodas
+- Retrovisor
+- Calotas
 
 
 
