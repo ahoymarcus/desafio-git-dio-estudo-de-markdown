@@ -4,7 +4,7 @@ Desafio prático do curso "Criando seu Primeiro Repositório no GitHub Para Comp
 
 ## Criando Títulos
 
-Títulos são criados na liguagem Markedown acrescentando-se o sinal de cerquilha ou coloquialmente 'Jogo da Velha' no início da linha.
+Títulos são criados na liguagem Markedown acrescentando-se o sinal de cerquilha ou coloquialmente 'Jogo da Velha' no início da linha.  
 Indo de 1 até 6 cerquilhas usadas lado a lado seguindo em ordem decrescente de importância.
 
 ## Criando novas linhas
@@ -15,7 +15,40 @@ Visualmente, para a criação de linhas em branco utiliza-se a tag 'br' da lingu
 <br />
 ```
 
+## Criando um bloco de código
+
+O código de quebra de linha de exemplificação inserido acima foi colocado dentro de um bloco de código.
+Ele é criado pela repetição de duas seqências de três aspas invertidas: 
+
+```
+<html>
+	<div>
+		<h1>Isto é um bloco de código</h1>
+	</div>
+</html> 
+```
+
+## Criando um bloco de citação
+
+> Que tal inserirmos uma citação aqui
+> I'am Iron Man.
 
 
 
-[^1] Orientação do professor Venilton Falvo Jr, Tech Lead da Digital Innovation One
+
+
+[^1] Orientação do professor Venilton Falvo Jr, Tech Lead da Digital Innovation One.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
