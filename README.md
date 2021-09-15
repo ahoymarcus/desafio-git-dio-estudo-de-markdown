@@ -53,7 +53,7 @@ Que tal esta citação:
 Utilizamos uma sequencia de dois colchetes para colocarmos um texto padrão e dois dois parênteses com o caminho relativo do arquivo da imagem no projeto:
 
 ```
-[imagem do Tux do Linux](/images/tux.png)
+![imagem do Tux do Linux](/images/tux.png)
 ```
 
 ![imagem do Tux do Linux](/images/tux.png)
